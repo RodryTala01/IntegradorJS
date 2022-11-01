@@ -1,0 +1,72 @@
+
+    .colorVerde {
+        color:#7dc63e
+    }
+
+    
+    .colorGris {
+        color:#707375
+    }
+
+    .colorBlanco {
+        color: white
+    }
+
+    .bordeEstudiante {
+        border-radius: 0;
+        border-color: #037dfe;
+    }
+    .bordeTrainee {
+        border-radius: 0;
+        border-color: #4bb7c8;
+    }
+    .bordeJunior {
+        border-radius: 0;
+        border-color: #ffc10a;
+    }
+
+    .anchoMio {
+        width: auto;
+    }
+
+    .anchoInput>input {
+        width: 50px;
+        
+    }
+
+    .colorCeleste {
+        background-color: #cce5ff;
+    }
+
+    .colorAzul {
+        color: #51698c;
+    }
+
+    .anchoTotal {
+        height: 3rem;
+    }
+
+    .fondoBoton {
+        background-color: #97c93e !important;
+        color: white !important;
+    }
+
+    
+
+    .anchoBoton {
+        width: 21.1rem;
+    }
+
+    .btn:hover {
+        background-color: #7eaa32 !important; 
+    }
+
+    .rellenoAbajo{
+        background-color: #204d68;
+        padding: 5.3rem;
+    }
+
+    .rellenoAbajo2{
+        background-color: #204d68;
+        padding: 8.2rem;
+    }
